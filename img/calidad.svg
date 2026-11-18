@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Calidad">
+      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173b5c"/><stop offset="1" stop-color="#287d83"/></linearGradient></defs>
+      <rect width="400" height="300" rx="22" fill="url(#bg)"/>
+      <circle cx="335" cy="45" r="85" fill="#fff" opacity=".06"/><circle cx="45" cy="265" r="100" fill="#fff" opacity=".05"/>
+      
+          <path d="M200 58l91 34v67c0 57-39 94-91 119-52-25-91-62-91-119V92z" fill="#fff"/>
+          <path d="M153 154l31 31 66-72" fill="none" stroke="#55c6a5" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+        
+      <text x="200" y="276" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">CALIDAD</text>
+    </svg>

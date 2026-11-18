@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Organización">
+      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173b5c"/><stop offset="1" stop-color="#287d83"/></linearGradient></defs>
+      <rect width="400" height="300" rx="22" fill="url(#bg)"/>
+      <circle cx="335" cy="45" r="85" fill="#fff" opacity=".06"/><circle cx="45" cy="265" r="100" fill="#fff" opacity=".05"/>
+      
+          <rect x="85" y="70" width="230" height="180" rx="16" fill="#fff"/>
+          <g fill="#54b9a4"><circle cx="125" cy="116" r="10"/><circle cx="125" cy="160" r="10"/><circle cx="125" cy="204" r="10"/></g>
+          <g fill="#c8d8e5"><rect x="151" y="108" width="126" height="15" rx="7"/><rect x="151" y="152" width="105" height="15" rx="7"/><rect x="151" y="196" width="135" height="15" rx="7"/></g>
+        
+      <text x="200" y="276" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">ORGANIZACIÓN</text>
+    </svg>

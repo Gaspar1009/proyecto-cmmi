@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" role="img" aria-label="Procesos definidos">
+      <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#173b5c"/><stop offset="1" stop-color="#287d83"/></linearGradient></defs>
+      <rect width="400" height="300" rx="22" fill="url(#bg)"/>
+      <circle cx="335" cy="45" r="85" fill="#fff" opacity=".06"/><circle cx="45" cy="265" r="100" fill="#fff" opacity=".05"/>
+      
+          <circle cx="200" cy="150" r="42" fill="#fff"/>
+          <circle cx="92" cy="92" r="27" fill="#dff4ee"/><circle cx="308" cy="92" r="27" fill="#dff4ee"/>
+          <circle cx="92" cy="218" r="27" fill="#dff4ee"/><circle cx="308" cy="218" r="27" fill="#dff4ee"/>
+          <path d="M119 104L165 132M235 132L281 104M119 206L165 168M235 168L281 206" stroke="white" stroke-width="8" stroke-linecap="round"/>
+          <path d="M182 150h36M200 132v36" stroke="#48b5a0" stroke-width="8" stroke-linecap="round"/>
+        
+      <text x="200" y="276" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">PROCESOS DEFINIDOS</text>
+    </svg>
